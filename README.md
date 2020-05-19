@@ -4,3 +4,6 @@ Advanced concepts in Data Science. Including:
 2. Dimensionality reduction processes, 
 3. Handling Big-Data with Apache-spark, 
 4. Plotting Big-data and lots more
+
+
+Licensed by MIT License
